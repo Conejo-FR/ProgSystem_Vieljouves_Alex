@@ -3,4 +3,7 @@ echo "*.out" >> .gitignore
 echo "*.exe" >> .gitignore
 echo "*.a" >> .gitignore
 echo "*.so" >> .gitignore
-
+echo "*.class" >> .gitignore
+echo "*.jar" >> .gitignore
+echo "*.o" >> .gitignore
+echo "*.obj" >> .gitignore
